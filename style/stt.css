@@ -16,7 +16,7 @@ body{
     height:  60px;
     border: 1px solid #eee;
     border-radius: 7px;
-    background-color: 03045e;
+    background-color: #023e8a;
     position: fixed;
     top:0;
     left:0;
@@ -401,7 +401,7 @@ ul li:hover{
     content: '';
     position: absolute;
     background-color: #caf0f8;
-    border-radius: 10px;
+    border-radius: 10px 0px 0px 10px;
     top: 0;
     left: 0;
 
@@ -418,7 +418,7 @@ ul li:hover{
     content: '';
     position: absolute;
     background-color: #caf0f8;
-    border-radius: 10px;
+    border-radius: 0px 10px 10px 0px;
     bottom: 0;
     right: 0;
 
